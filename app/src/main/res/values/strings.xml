@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator_original</string>
+    <string name="lastName"> 姓氏：</string>
+    <string name="fitstName">名字：</string>
+    <string name="lastName_plain">Last name</string>
+    <string name="firstName_plain">First name</string>
+    <string name="phoneNumber">手機號碼：</string>
+    <string name="button">Confirm</string>
+    <string name="phone_886">+886</string>
+</resources>
